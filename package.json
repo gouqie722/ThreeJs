@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dat.gui": "^0.7.9",
+    "stats-js": "^1.0.1",
     "three": "^0.140.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
